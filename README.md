@@ -1,4 +1,4 @@
- # Hi, I'm Sarthak 👋
+ # Hi, I'm Sarthak Patel👋
 
 **System Engineer @ IBM** | RHCSA Certified | Transitioning into DevOps / Cloud / SRE
 
