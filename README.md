@@ -2,7 +2,7 @@
 
 **System Engineer @ IBM** | RHCSA Certified | Transitioning into DevOps / Cloud / SRE
 
-I work with enterprise Linux and infrastructure systems in production banking/telecom environments, and I'm building automation, containerization, and cloud skills to move into DevOps and Site Reliability Engineering roles.
+I work with enterprise Linux and infrastructure systems in production banking/telecom environments, and I'm building automation, containerization, and cloud skills to move into DevOps and Site Reliability Engineering roles..
 
 ---
 
